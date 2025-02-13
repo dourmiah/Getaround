@@ -2,6 +2,8 @@ Objectifs : Analyser les retards de restitution de véhicules en location
 puis mettre en ligne un dashboard d’aide à la décision.
 Déployer un modèle de prédiction du meilleur prix de location.
 
+La présentation du projet est consultable dans le fichier Getaround_Presentation.odp
+
 Adresse application Streamlit : https://dom-project-getaround-2eea00b58ac9.herokuapp.com/
 API Prédiction Prix : https://dom-getaround-predict-price-2f8f063b1ae5.herokuapp.com/docs#/default/predict_predict_post
 
